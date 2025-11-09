@@ -64,7 +64,7 @@ A powerful Streamlit-based application that leverages facial recognition technol
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Rohith Boppana** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Artificial Intelligence & Machine Learning**.
+Hi, I’m **ISINIGIRI PAVAN SRI SAI** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Artificial Intelligence & Machine Learning**.
 
 I'm deeply interested in building real-world tech solutions that combine data, intelligence, and intuitive design. My academic journey and hands-on projects reflect a strong foundation in both theory and practical application.
 
@@ -82,11 +82,11 @@ I enjoy translating business needs and data insights into impactful software sol
 
 📫 **LinkedIn**  
 Let’s connect and grow professionally:  
-[linkedin.com/in/rohith-boppana-39ab57279](https://www.linkedin.com/in/rohith-boppana-39ab57279/)
+[www.linkedin.com/in/pavan-sri-sai-isinigiri](https://www.linkedin.com/in/pavan-sri-sai-isinigiri/)
 
 🌐 **Portfolio**  
 Explore my latest work, skills, and projects here:  
-[rohith-boppana.vercel.app](https://rohith-boppana.vercel.app)
+[ipssai444.github.io/pavan-portfolio/](https://ipssai444.github.io/pavan-portfolio/)
 
 ---
 
